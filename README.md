@@ -1,4 +1,4 @@
-<img src="dani.jpg" alt="screenshot" width="250" align="right">
+<img src="https://raw.githubusercontent.com/DanielleRS/DanielleRS/master/dani.jpg" alt="screenshot" width="250" align="right">
 
 ### Hi there! 😁 
 #### Welcome to my profile
