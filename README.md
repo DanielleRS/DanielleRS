@@ -3,7 +3,7 @@
 ### Hi there! 😁 
 #### Welcome to my profile
 
-My name is Danielle Rodrigues dos Santos. I've been working as Systems Analyst since 2019. I always try to learn new technologies.
+My name is Danielle Rodrigues dos Santos. I've been working as Developer at EloGroup since 2020. I always try to learn new technologies.
 In my free time I like to listen to music, to watch movies and series and to travel.
 
 Would you like to find me?
